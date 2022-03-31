@@ -6,6 +6,7 @@
 1. Download the latest release
 2. Run main.exe 
 
+Do note the script requires Windows 8 or above
 ## From source
 ### Prerequisites
 - Python
