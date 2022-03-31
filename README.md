@@ -4,8 +4,7 @@
 # Usage
 ## Releases
 1. Download the latest release
-2. Unzip the folder
-3. Run main.exe 
+2. Run main.exe 
 
 ## From source
 ### Prerequisites
